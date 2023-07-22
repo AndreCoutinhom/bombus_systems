@@ -1,0 +1,44 @@
+{
+  "Componentes utilizados na placa eletrônica e seus respectivos preços": [
+    {
+      "Função": "Placa",
+      "Componente": "Placa de cobre e Fenolite",
+      "Preço": "R$6,21"
+    },
+    {
+      "Função": "Controlador",
+      "Componente": "Placa Nano V3.0 R3 Atmega328",
+      "Preço": "R$54,99"
+    },
+    {
+      "Função": "Input",
+      "Componente": "Módulo Sensor de distância Laser VL53L0X",
+      "Preço": "R$26,99"
+    },
+    {
+      "Função": "Output",
+      "Componente": "Módulo Motor Vibracall Arduino MV50",
+      "Preço": "R$21,53"
+    },
+    {
+      "Função": "Ativação",
+      "Componente": "Chave Liga/Desliga Alavanca Metálica Mts101",
+      "Preço": "R$2,90"
+    },
+    {
+      "Função": "Carga",
+      "Componente": "Suporte para 4 Pilhas AA Comum Dois Lados Com Rabicho",
+      "Preço": "R$4,99"
+    },
+    {
+      "Função": "Bateria",
+      "Componente": "4 Pilhas AA Duracell",
+      "Preço": "R$26,50"
+    },
+    {
+      "Função": "Total",
+      "Componente": "Total",
+      "Preço": "R$144,11"
+    }
+  ]
+}
