@@ -13,7 +13,7 @@ Os códigos funcionais desse repositório foram feitos usando a IDE do Arduino, 
 
 ###
 
-O propósito desse projeto é organizar conhecimentos sobre roupas inteligentes e dispositivos vestíveis, de forma a serem usados em outros materiais de pesquisa na área de inovação tecnológica.
+O propósito desse projeto é organizar conhecimentos sobre roupas inteligentes e dispositivos vestíveis para serem aplicados em diferentes áreas que carecem de maiores percepções de espaço.
 
 ##
 
