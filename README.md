@@ -1,8 +1,8 @@
 # Bombus Vest Systems
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Head_Start" height="195" width="195" src="https://images.contentstack.io/v3/assets/blta38dcaae86f2ef5c/blt4233202c6d0e4c47/615770ed054fcd4c56720380/2.17_Emote_Ezreal_BA.gif">
-  <img align="center" alt="Head_Start" height="195" width="195" src="https://images.contentstack.io/v3/assets/blta38dcaae86f2ef5c/blt1d295be8254b0aa1/615770ce9c76234dd174bf61/2.17_Emote_Caitlyn_BA.gif">
+  <img align="right" alt="Ezreal" height="175" width="175" src="https://images.contentstack.io/v3/assets/blta38dcaae86f2ef5c/blt4233202c6d0e4c47/615770ed054fcd4c56720380/2.17_Emote_Ezreal_BA.gif">
+
 </div> 
 
 ###
