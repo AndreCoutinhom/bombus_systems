@@ -1,0 +1,28 @@
+{
+  "Materiais para a confecção do colete": [
+    {
+      "Função": "Tecido Externo",
+      "Componente": "Lona",
+      "Composição": "100% algodão",
+      "Preço": "R$29,80 por metro"
+    },
+    {
+      "Função": "Forro",
+      "Componente": "Brim",
+      "Composição": "100% algodão",
+      "Preço": "R$39,90 por metro"
+    },
+    {
+      "Função": "União de tecidos",
+      "Componente": "Botões de pressão",
+      "Composição": "Alumínio",
+      "Preço": "R$3,00 por conjunto"
+    },
+    {
+      "Função": "Fechamento",
+      "Componente": "Zíper destacável",
+      "Composição": "Metal",
+      "Preço": "R$0,40 por centímetro"
+    }
+  ]
+}
