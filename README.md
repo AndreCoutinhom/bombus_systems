@@ -30,6 +30,6 @@ O propósito desse projeto é organizar conhecimentos sobre roupas inteligentes 
 ### Instituições de apoio
 
 <div style="display: inline_block"><br>
-   <a href="https://www.sp.senac.br/" target="_blank"><img align="center" alt="Senac" height="150" width="150" src="https://cdn-sites-images.46graus.com/files/photos/069c0485/d05492b5-6574-47d0-904f-f37e0aed62fd/logo-senac-256x256.png" target="_blank"></a>
+   <a href="https://www.sp.senac.br/graduacao/bacharelado-em-design-de-moda" target="_blank"><img align="center" alt="Senac" height="150" width="150" src="https://cdn-sites-images.46graus.com/files/photos/069c0485/d05492b5-6574-47d0-904f-f37e0aed62fd/logo-senac-256x256.png" target="_blank"></a>
   <a href="https://www.unifesp.br/campus/sjc/ppgit.html" target="_blank"><img align="center" alt="Unifesp" height="150" width="150" src="https://www.centrodememoriaurbana.org/themes/cmurb-avant/images/parceiros/unifesp.png" target="_blank"></a>
 </div> 
