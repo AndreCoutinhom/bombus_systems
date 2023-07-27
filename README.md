@@ -33,12 +33,3 @@ O propósito desse projeto é organizar conhecimentos sobre roupas inteligentes 
    <a href="https://www.sp.senac.br/graduacao/bacharelado-em-design-de-moda" target="_blank"><img align="center" alt="Senac" height="150" width="150" src="https://cdn-sites-images.46graus.com/files/photos/069c0485/d05492b5-6574-47d0-904f-f37e0aed62fd/logo-senac-256x256.png" target="_blank"></a>
   <a href="https://www.unifesp.br/campus/sjc/ppgit.html" target="_blank"><img align="center" alt="Unifesp" height="150" width="150" src="https://www.centrodememoriaurbana.org/themes/cmurb-avant/images/parceiros/unifesp.png" target="_blank"></a>
 </div> 
-
-
-### Fotos
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="bombus_frente" src="https://media.licdn.com/dms/image/D4D2DAQEEaAyeI20bOg/profile-treasury-image-shrink_1920_1920/0/1688420094307?e=1691089200&v=beta&t=O69_qt6UCyByAqkzp87YuXtwgSqMS1entIWzXQWpk-c">
-  <img align="center" alt="bombus_frente" src="https://media.licdn.com/dms/image/D4D2DAQGorFNH9dx2Ow/profile-treasury-image-shrink_1920_1920/0/1688420174459?e=1691089200&v=beta&t=NTuerCJm9O0byGQv1foOACqopCWXfncvVgzZ-rzCZcU">
-
-</div> 
