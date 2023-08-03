@@ -1,11 +1,14 @@
-# Bombus Vest Systems
+<h1 align="center">
+Bombus Vest Systems
 
 <div style="display: inline_block"><br>
-  <img align="right" alt="Ezreal" height="195" width="195" src="https://images.contentstack.io/v3/assets/blta38dcaae86f2ef5c/blt4233202c6d0e4c47/615770ed054fcd4c56720380/2.17_Emote_Ezreal_BA.gif">
+  <img align="right" alt="cyberpunk" src="https://media.wired.com/photos/5fd7d4d400c45b72f4a68f42/master/w_2560%2Cc_limit/games_cyberpunk-nda.jpg">
 
 </div> 
 
-###
+</h1>
+
+##
 
 O Colete Bombus é um projeto acadêmico criado em meu trabalho de conclusão do curso de Estilismo no Centro Universitário Senac.
 Consiste em um colete com um tecido inteligente acoplado às costas.
