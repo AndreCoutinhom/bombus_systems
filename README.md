@@ -24,7 +24,7 @@ O propósito desse projeto é organizar conhecimentos sobre roupas inteligentes 
 
 
 
-### Vídeo de teste do Colete Bombus
+### Teste do Colete Bombus
 
 <div style="display: inline_block"><br>
   <a href="https://youtu.be/AvJonHOuK10" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
