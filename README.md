@@ -12,7 +12,7 @@ Bombus Vest
 
 ###
 
-### Explicação do projeto
+### A experiência
 
 O Colete Bombus é um projeto acadêmico criado em meu trabalho de conclusão do curso de Estilismo no Centro Universitário Senac.
 Consiste em um colete com um tecido inteligente acoplado às costas.
@@ -24,7 +24,11 @@ O propósito desse projeto é organizar conhecimentos sobre roupas inteligentes 
 
 ##
 
+### Como funciona?
 
+O Colete Bombus é acionado quando detecta um objeto a pelo menos um metro de distância. As costas do colete carregam o sensor de proximidade e um motor de vibração. Quanto mais próximo o objeto estiver das costas do colete, mais rapidamente o motor de vibração se ativa, sinalizando o usuário sobre riscos de colisão na parte traseira.
+
+##
 
 ### Teste do Colete Bombus
 
