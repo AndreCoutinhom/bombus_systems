@@ -1,7 +1,7 @@
 # Monografia
 
-Essa é a monografia contendo todo o processo de estudo intelectual do projeto.
+This is the monograph containing the entire intellectual study process of the project.
 
-Todos os direitos são reservados junto a todos os componentes desse repositório.
+All rights are reserved for all components of this repository.
 
 ---
